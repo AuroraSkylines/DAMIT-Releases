@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "version": "0.5.0",
+      "date": "2026-11-15",
+      "title": "Wages, looks and statistics",
+      "changes": [
+        "Every shift pays Dam Bucks: more for a better rank and harder difficulty, half if the dam breaks. Nothing you own is ever lost.",
+        "Main menu with Customize: overall colours, helmet colours and headgear - including a crown for the true shift boss.",
+        "Everybody sees your name and your look; the lobby banner shows the crew.",
+        "The result screen shows wages and funny titles: hardest worker, gravity tester, tool javelin champion, biggest saboteur, team MVP.",
+        "Statistics over all shifts, settings for volume, mouse/stick sensitivity, inverted camera, fullscreen and quality.",
+        "Progress and settings are saved on your PC (with a backup copy)."
+      ],
+      "title_de": "Lohn, Aussehen und Statistiken",
+      "changes_de": [
+        "Jede Schicht bringt Dam Bucks: mehr für einen besseren Rang und höhere Schwierigkeit, die Hälfte, wenn der Damm bricht. Was du besitzt, verlierst du nie.",
+        "Hauptmenü mit Anpassen: Overall-Farben, Helmfarben und Kopfbedeckungen – inklusive Krone für den echten Schichtleiter.",
+        "Alle sehen deinen Namen und dein Aussehen; das Lobby-Banner zeigt die Crew.",
+        "Der Ergebnisbildschirm zeigt den Lohn und lustige Titel: fleißigster Schrauber, Gravitationstester, Werkzeug-Weitwurf-Meister, größter Saboteur, Team-MVP.",
+        "Statistik über alle Schichten, Einstellungen für Lautstärke, Maus-/Stick-Empfindlichkeit, invertierte Kamera, Vollbild und Qualität.",
+        "Fortschritt und Einstellungen werden auf deinem PC gespeichert (mit Sicherungskopie)."
+      ]
+    },
+    {
       "version": "0.4.0",
       "date": "2026-11-15",
       "title": "Chaos and physics",
