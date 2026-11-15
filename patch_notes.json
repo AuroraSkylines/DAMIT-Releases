@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "version": "0.2.1",
+      "date": "2026-11-15",
+      "title": "Turning with the mouse",
+      "changes": [
+        "You turn with the mouse (controller: right stick) only. The worker always faces where the camera looks.",
+        "A/D (left stick sideways) now step sideways instead of turning; S walks backwards a little slower.",
+        "The camera no longer swings around by itself; R3 / middle mouse button levels the view."
+      ],
+      "title_de": "Drehen mit der Maus",
+      "changes_de": [
+        "Gedreht wird nur noch mit der Maus (Controller: rechter Stick). Der Arbeiter schaut immer dorthin, wo die Kamera hinschaut.",
+        "A/D (linker Stick seitlich) gehen jetzt seitwärts statt zu drehen; S geht etwas langsamer rückwärts.",
+        "Die Kamera schwenkt nicht mehr von selbst; R3 / mittlere Maustaste richtet den Blick wieder gerade aus."
+      ]
+    },
+    {
       "version": "0.2.0",
       "date": "2026-11-15",
       "title": "The first shift",
