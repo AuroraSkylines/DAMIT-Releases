@@ -1,6 +1,26 @@
 {
   "entries": [
     {
+      "version": "0.4.0",
+      "date": "2026-11-15",
+      "title": "Chaos and physics",
+      "changes": [
+        "Tools are real objects now: pick them up from racks or the floor, drop them with G (controller: B), throw them with the right mouse button (controller: RB).",
+        "A tool thrown hard enough knocks a colleague over. Whoever falls drops what he carries and gets back up a moment later.",
+        "Burst pipes spray: the water jet pushes you away and sometimes off your feet, the floor around it gets slippery.",
+        "Sprinting on wet floors or through basement water can end on your back.",
+        "Spray and sparks show what is broken; a wrong fuse sparks properly."
+      ],
+      "title_de": "Chaos und Physik",
+      "changes_de": [
+        "Werkzeuge sind jetzt echte Gegenstände: aus Regalen oder vom Boden aufheben, mit G (Controller: B) fallen lassen, mit der rechten Maustaste (Controller: RB) werfen.",
+        "Ein kräftig geworfenes Werkzeug wirft Kollegen um. Wer umfällt, lässt fallen, was er trägt, und steht kurz danach wieder auf.",
+        "Geplatzte Rohre spritzen: Der Wasserstrahl schubst dich weg und manchmal von den Füßen, der Boden drumherum wird rutschig.",
+        "Sprinten auf nassem Boden oder durch Kellerwasser kann auf dem Rücken enden.",
+        "Sprühnebel und Funken zeigen, was kaputt ist; eine falsche Sicherung funkt ordentlich."
+      ]
+    },
+    {
       "version": "0.3.1",
       "date": "2026-11-15",
       "title": "What is what",
