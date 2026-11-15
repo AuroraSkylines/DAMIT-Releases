@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "version": "0.2.0",
+      "date": "2026-11-15",
+      "title": "The first shift",
+      "changes": [
+        "The dam (greybox): Control Room, Turbine Hall, Pipe Basement down the stairs and the Spillway outside.",
+        "The host starts a shift at the console in the Control Room. Survive 12 minutes: water pressure, power and integrity are shown top left.",
+        "Four failures happen at the machines: pipe burst, stuck valve, generator overload and clogged filter. Red flashing lamps show where.",
+        "Repairs need tools from the racks: gasket and wrench for pipes, the brush for filters. Drop a tool with G (controller: B).",
+        "Generators: put the fuses in the order the lamps show, then pull the lever. Valves: hold to turn and let go in the green zone.",
+        "Ignored failures escalate and damage the dam; the basement floods without power. At the end you get a rank from S to F."
+      ],
+      "title_de": "Die erste Schicht",
+      "changes_de": [
+        "Der Staudamm (Greybox): Control Room, Turbinenhalle, Rohrkeller über die Treppe und die Schleuse draußen.",
+        "Der Host startet die Schicht an der Konsole im Control Room. Haltet 12 Minuten durch: Wasserdruck, Strom und Integrität stehen oben links.",
+        "Vier Störungen passieren an den Maschinen: Rohrbruch, klemmendes Ventil, Generator-Überlastung und verstopfter Filter. Rot blinkende Lampen zeigen, wo.",
+        "Reparaturen brauchen Werkzeug aus den Regalen: Dichtung und Schraubenschlüssel für Rohre, die Bürste für Filter. Werkzeug ablegen mit G (Controller: B).",
+        "Generatoren: Sicherungen in der Reihenfolge der Lampen einsetzen, dann den Hebel ziehen. Ventile: halten zum Drehen, im grünen Bereich loslassen.",
+        "Ignorierte Störungen eskalieren und beschädigen den Damm; ohne Strom läuft der Keller voll. Am Ende gibt es einen Rang von S bis F."
+      ]
+    },
+    {
       "version": "0.1.1",
       "date": "2026-11-15",
       "title": "Better controls",
