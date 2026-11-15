@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "version": "0.3.1",
+      "date": "2026-11-15",
+      "title": "What is what",
+      "changes": [
+        "Name tags on every machine, tool rack and console, and signs for every area and doorway (\"↓ PIPE BASEMENT\").",
+        "The machine you can use right now lights up orange.",
+        "Every failure gets a marker with its distance; if it is off screen, an arrow at the edge points the way.",
+        "The real models, materials and sounds follow in phase 6 - this greybox look is meant to test the gameplay."
+      ],
+      "title_de": "Was ist was",
+      "changes_de": [
+        "Namensschilder an jeder Maschine, jedem Werkzeugregal und jeder Konsole, dazu Schilder für jeden Bereich und Durchgang („↓ ROHRKELLER“).",
+        "Die Maschine, die du gerade benutzen kannst, leuchtet orange auf.",
+        "Jede Störung bekommt eine Markierung mit Entfernung; ist sie nicht im Bild, zeigt ein Pfeil am Rand den Weg.",
+        "Die richtigen Modelle, Materialien und Sounds kommen in Phase 6 – die Greybox-Optik dient zum Testen des Gameplays."
+      ]
+    },
+    {
       "version": "0.3.0",
       "date": "2026-11-15",
       "title": "Normal, Overtime, Nightmare",
