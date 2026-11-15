@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "version": "0.1.1",
+      "date": "2026-11-15",
+      "title": "Better controls",
+      "changes": [
+        "Movement like in common third-person games: the worker turns smoothly towards where you steer and speeds up and slows down gently.",
+        "Controller: tilt the stick a little to walk slowly; sprint with the right trigger (hold) or a left stick click; the camera stick has a dead zone and fine control near the centre.",
+        "The camera follows more smoothly, swings behind you while you run with a controller, and R3 / middle mouse button puts it right behind you.",
+        "Jumping is snappier and forgives a slightly late button press; stairs and ramps no longer make you hop or slide."
+      ],
+      "title_de": "Bessere Steuerung",
+      "changes_de": [
+        "Bewegung wie in bekannten Third-Person-Spielen: Der Arbeiter dreht sich weich in die Lenkrichtung und beschleunigt und bremst sanft.",
+        "Controller: Stick leicht neigen = langsam gehen; Sprinten mit rechtem Trigger (halten) oder Klick auf den linken Stick; der Kamera-Stick hat eine Totzone und reagiert in der Mitte feiner.",
+        "Die Kamera folgt weicher, schwenkt beim Laufen mit Controller hinter dich, und R3 / mittlere Maustaste setzt sie direkt hinter dich.",
+        "Springen ist knackiger und verzeiht einen etwas zu späten Tastendruck; Treppen und Rampen lassen dich nicht mehr hüpfen oder rutschen."
+      ]
+    },
+    {
       "version": "0.1.0",
       "date": "2026-11-15",
       "title": "First test shift",
