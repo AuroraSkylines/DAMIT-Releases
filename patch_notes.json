@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "version": "0.6.0",
+      "date": "2026-11-15",
+      "title": "The real look and sound",
+      "changes": [
+        "Every machine has a real model now: generators, turbines, valves with hand wheel and pressure gauge, filters with a lid (and an old boot, a can and a very surprised fish inside), consoles, screens, tool racks and the spillway gate.",
+        "The dam stands in a valley: reservoir, river far below, mountains and forest. Sky, sunlight, lamps and a cartoon colour look.",
+        "The workers are real characters with your overall and helmet colours, the cap, the extra tall helmet or the crown. They walk, run, jump, carry tools, work at machines and tumble.",
+        "Sounds for everything: machines humming, alarms per failure, spraying water, sparks, fuses, the hand wheel, the brush, footsteps on concrete, metal and in water, throws and bonks.",
+        "Music that gets more hectic the worse the shift goes; a horn starts the shift, a fanfare or a sad trombone ends it.",
+        "Fixed: the screens in the Control Room no longer block the door to the spillway; the filter lid opens upwards."
+      ],
+      "title_de": "Richtige Grafik und Sound",
+      "changes_de": [
+        "Jede Maschine hat jetzt ein richtiges Modell: Generatoren, Turbinen, Ventile mit Handrad und Manometer, Filter mit Deckel (und drinnen ein alter Stiefel, eine Dose und ein sehr überraschter Fisch), Pulte, Bildschirme, Werkzeugregale und das Schleusentor.",
+        "Der Damm steht in einem Tal: Stausee, tief unten der Fluss, Berge und Wald. Himmel, Sonnenlicht, Lampen und ein Cartoon-Farblook.",
+        "Die Arbeiter sind richtige Figuren mit euren Overall- und Helmfarben, Schirmmütze, extra hohem Helm oder Krone. Sie laufen, rennen, springen, tragen Werkzeug, arbeiten an Maschinen und fallen um.",
+        "Sounds für alles: brummende Maschinen, Alarme je Störung, spritzendes Wasser, Funken, Sicherungen, das Handrad, die Bürste, Schritte auf Beton, Metall und im Wasser, Würfe und Bonks.",
+        "Musik, die hektischer wird, je schlimmer die Schicht läuft; eine Hupe startet die Schicht, eine Fanfare oder eine traurige Posaune beendet sie.",
+        "Behoben: Die Bildschirme im Control Room versperren nicht mehr die Tür zur Schleuse; der Filterdeckel öffnet nach oben."
+      ]
+    },
+    {
       "version": "0.5.0",
       "date": "2026-11-15",
       "title": "Wages, looks and statistics",
