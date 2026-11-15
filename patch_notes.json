@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "version": "0.3.0",
+      "date": "2026-11-15",
+      "title": "Normal, Overtime, Nightmare",
+      "changes": [
+        "Three difficulties: the host picks Normal, Overtime or Nightmare at the yellow desk next to the start console.",
+        "The shift adapts to 1, 2, 3 or 4 players: more players get more and faster failures, each one a bit milder.",
+        "If someone leaves during a shift, the next failures are planned for the smaller team.",
+        "Balanced with thousands of simulated shifts: an average crew wins Normal almost always, Overtime most of the time and Nightmare about every second shift."
+      ],
+      "title_de": "Normal, Überstunden, Albtraum",
+      "changes_de": [
+        "Drei Schwierigkeitsstufen: Der Host wählt Normal, Überstunden oder Albtraum am gelben Pult neben der Start-Konsole.",
+        "Die Schicht passt sich an 1, 2, 3 oder 4 Spieler an: Mehr Spieler bekommen mehr und schnellere Störungen, jede etwas milder.",
+        "Verlässt jemand während der Schicht das Spiel, werden die nächsten Störungen für das kleinere Team geplant.",
+        "Abgestimmt mit Tausenden simulierten Schichten: Eine durchschnittliche Crew gewinnt Normal fast immer, Überstunden meistens und Albtraum etwa jede zweite Schicht."
+      ]
+    },
+    {
       "version": "0.2.1",
       "date": "2026-11-15",
       "title": "Turning with the mouse",
