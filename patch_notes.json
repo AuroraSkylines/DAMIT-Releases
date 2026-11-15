@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "version": "0.1.0",
+      "date": "2026-11-15",
+      "title": "First test shift",
+      "changes": [
+        "A first greybox test hall with a power switch and a broken pump.",
+        "Walk, sprint, jump and look around - with keyboard and mouse or fully with a controller.",
+        "Use things with E (controller: X). Hold to repair the pump; several players repair faster.",
+        "Play solo, or create a Steam lobby and invite friends: Esc / Start opens the menu with \"Invite friend\".",
+        "Everything a player changes is decided by the host, so all players see the same machines."
+      ],
+      "title_de": "Erste Testschicht",
+      "changes_de": [
+        "Eine erste Greybox-Testhalle mit Stromschalter und kaputter Pumpe.",
+        "Laufen, sprinten, springen und umsehen – mit Tastatur und Maus oder komplett mit Controller.",
+        "Benutzen mit E (Controller: X). Zum Reparieren der Pumpe gedrückt halten; zu mehreren geht es schneller.",
+        "Solo spielen oder eine Steam-Lobby erstellen und Freunde einladen: Esc / Start öffnet das Menü mit „Freund einladen“.",
+        "Was ein Spieler verändert, entscheidet der Host – so sehen alle dieselben Maschinen."
+      ]
+    }
+  ]
+}
