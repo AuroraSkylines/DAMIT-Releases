@@ -1,7 +1,7 @@
 {
   "format": 1,
   "game": {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "files": [
       {
         "path": "DamIt.exe",
@@ -86,26 +86,26 @@
       {
         "path": "DamIt_Data/boot.config",
         "size": 156,
-        "sha256": "79aaa0e57d7b9a9512dbb0f1c081aeadd9fa395fee855db5e9abbe773a24934e",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/boot.config.gz",
-        "packed_size": 142,
-        "packed_sha256": "4f4aacd58f5c11e9b70d9a53e00399ba6f2e94be11692f24484779b9dea08cbf"
+        "sha256": "54d4fd88e25144fe43ba75a9265541f1ca5e24007c44c3a651204b49c28b5a12",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/boot.config.gz",
+        "packed_size": 143,
+        "packed_sha256": "c704b3a6590ab880f907d8ce804b11c6065c32b7e7dcca15faf0c92d15ec1986"
       },
       {
         "path": "DamIt_Data/globalgamemanagers",
-        "size": 118804,
-        "sha256": "339c174cd9ccb0aeb8546bb0e5c185afe2a712c9a3f882628c8caf5e9093496f",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/globalgamemanagers.gz",
-        "packed_size": 56616,
-        "packed_sha256": "7088c87234eff7deb0c6797fc0c017b6a4539cd9bf35847e7cbc71926f1d886b"
+        "size": 118900,
+        "sha256": "199622258e07a650e273737f1c08b2daa1a883b80a7e46e92250b301ff087dcf",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/globalgamemanagers.gz",
+        "packed_size": 56687,
+        "packed_sha256": "b21fdf6a3c101878f7d573f0894a5d13e804a2ca553b7b0c13f5a9d5cca335b5"
       },
       {
         "path": "DamIt_Data/globalgamemanagers.assets",
-        "size": 1129128,
-        "sha256": "55a948a9d4643df179aa6cd93a7fc37c0f54e0af06af1d1c56b008b7531997bd",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/globalgamemanagers.assets.gz",
-        "packed_size": 246571,
-        "packed_sha256": "562c4a8c3abbf3c23646e607290c84b1e5cc82ad5b06eb8f2a15936ad22e720b"
+        "size": 1129368,
+        "sha256": "c2dad2c5d136b89ef7a057426b60250975c6a52a2ecc13402f88ded91182d880",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/globalgamemanagers.assets.gz",
+        "packed_size": 246642,
+        "packed_sha256": "19aee2e439141bfaa0b503b46c79a23dfed77942b58e800dd73bd07d5e91ad87"
       },
       {
         "path": "DamIt_Data/globalgamemanagers.assets.resS",
@@ -125,19 +125,19 @@
       },
       {
         "path": "DamIt_Data/level1",
-        "size": 80940,
-        "sha256": "990bb3f2bee0f9bdba92466d62fe200b1853c2b62a6ff7b4da72d1ea1cc207d3",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/level1.gz",
-        "packed_size": 13415,
-        "packed_sha256": "85834bc085d2bb1b7fc8958dca8992b0d5373e35c7d580d70a3cd4933395315d"
+        "size": 80936,
+        "sha256": "a11fb59d12ef8ae137cf0a4febcadd4766ab24cf25ac43ba8c2033655d7bc3ff",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/level1.gz",
+        "packed_size": 13439,
+        "packed_sha256": "27720c641228fec8174b4c50063f79675910a5ee361449c3ceecbc534d5ae424"
       },
       {
         "path": "DamIt_Data/level2",
-        "size": 458624,
-        "sha256": "762fe6cbeba6e31e26c6ba073f3993dee33bd0ec292f9fe916779efb06660a0d",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/level2.gz",
-        "packed_size": 46702,
-        "packed_sha256": "3599d85c54a285345b860ad168b14d022334d122a4641f27d4514873521f71ca"
+        "size": 468916,
+        "sha256": "bd98435a59574f43eb7caddef43b4e93f4d7b48b8f4fe4d58240cdacd313a84b",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/level2.gz",
+        "packed_size": 48332,
+        "packed_sha256": "292a50f441625f89c236f1e2c255c60c2eedf9a024eda502f763efa1325e26f2"
       },
       {
         "path": "DamIt_Data/resources.assets",
@@ -182,10 +182,10 @@
       {
         "path": "DamIt_Data/sharedassets1.assets",
         "size": 4697772,
-        "sha256": "9190e18f39f164e497de3528f438dcba70f5b3a2453cdd722a0fc76b7e5dc507",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/sharedassets1.assets.gz",
-        "packed_size": 2506218,
-        "packed_sha256": "c7eeff15302b89da6b6c063265e48d729bf40128e3306d14a983c8f5cfefbeb0"
+        "sha256": "5b7e8551e21c89be712adb8198da7bc4ea1c62dae5d870b9fa01876e0f9043e7",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/sharedassets1.assets.gz",
+        "packed_size": 2506224,
+        "packed_sha256": "63870df7be191cd1edd4cb019afbabae41f8aa26f3d8d8e1ef4448feab2e86b5"
       },
       {
         "path": "DamIt_Data/sharedassets1.assets.resS",
@@ -197,11 +197,11 @@
       },
       {
         "path": "DamIt_Data/sharedassets2.assets",
-        "size": 3326624,
-        "sha256": "4750eb719a2547e090e06b961bdb40d91609e2030a54b69ddd199a5481ba7063",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/sharedassets2.assets.gz",
-        "packed_size": 1829638,
-        "packed_sha256": "e09c8f62a15cafa4b6f18797763115a5b903497d779bcf8076ba60ec1fc9a8e8"
+        "size": 3326640,
+        "sha256": "2cc0b7d139441590693d0ef38b84912b362977a1edc8199ee8f992f0e7fc480a",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/sharedassets2.assets.gz",
+        "packed_size": 1829684,
+        "packed_sha256": "91b230c7790f44c8861b1502265a2df6e54729ad56b4c432ef8bb3b49a0bbaa5"
       },
       {
         "path": "DamIt_Data/sharedassets2.assets.resS",
@@ -222,18 +222,18 @@
       {
         "path": "DamIt_Data/Managed/DamIt.Networking.dll",
         "size": 72704,
-        "sha256": "1a3f7665fa06b27721e846f340fe3fa1af6b631045bb8aed052abcbbf675a40e",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/Managed/DamIt.Networking.dll.gz",
-        "packed_size": 31840,
-        "packed_sha256": "2a19ff70d672aeb1240e08148f84b804e9862a5bfa05d5d12cd7d36655ff6a89"
+        "sha256": "702077fc81e06e1e6d47972dae015ea2dbbf722c86ac1528e7d6e8a33db7c5ad",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/Managed/DamIt.Networking.dll.gz",
+        "packed_size": 31890,
+        "packed_sha256": "7fa81761a443280233a754dbc09ee1d8ddd9c08ad02990c17f9513e68d95c084"
       },
       {
         "path": "DamIt_Data/Managed/DamIt.Runtime.dll",
-        "size": 291328,
-        "sha256": "dde3ccd92fc9f7eceb553505302c54d9b8678f7d9bc7bdc7f6ad87c40ff1ea59",
-        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.0/DamIt_Data/Managed/DamIt.Runtime.dll.gz",
-        "packed_size": 120843,
-        "packed_sha256": "72cfa72fff3dfea79f6be39521c26f0b2adcdb661017c48bfdb51131bcf12227"
+        "size": 295424,
+        "sha256": "bd3f78ebcf4577e53d656e675055014612625dc10d875f69c0d1a41c53dde7d5",
+        "url": "https://raw.githubusercontent.com/AuroraSkylines/DAMIT-Releases/main/game/0.7.1/DamIt_Data/Managed/DamIt.Runtime.dll.gz",
+        "packed_size": 122472,
+        "packed_sha256": "62d3762ce5355c807c2d0066869ed66b588f92bd66f02cdc4c24e65b61621e95"
       },
       {
         "path": "DamIt_Data/Managed/Mono.Security.dll",

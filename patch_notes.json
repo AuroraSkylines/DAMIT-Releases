@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "version": "0.7.1",
+      "date": "2026-11-16",
+      "title": "Playtest fixes",
+      "title_de": "Fixes aus dem Playtest",
+      "changes": [
+        "No more slipping on dry floors.",
+        "Pipes, cabinets, railings and furniture are solid now: no more walking through things.",
+        "If you ever fall through the map, you are put back where you last stood.",
+        "Controller: the game keeps running when the window loses focus (Steam overlay, Discord), so the controller no longer seems dead. New settings: stick dead zone, stick sensitivity up to 300 %.",
+        "New setting: show FPS.",
+        "Walking and running about 20 % faster.",
+        "Shortcut: worker chute hatches on the crest and in the turbine hall take you straight to the other end.",
+        "Stronger water jets at the spillway; a power failure now also switches off the gallery, hall, basement and crest lights."
+      ],
+      "changes_de": [
+        "Kein Ausrutschen mehr auf trockenem Boden.",
+        "Rohre, Schränke, Geländer und Möbel sind jetzt fest: kein Durchlaufen mehr.",
+        "Falls du doch durch die Map fällst, landest du wieder dort, wo du zuletzt standest.",
+        "Controller: Das Spiel läuft weiter, wenn das Fenster den Fokus verliert (Steam-Overlay, Discord), der Controller wirkt nicht mehr tot. Neue Einstellungen: Stick-Totzone, Stick-Empfindlichkeit bis 300 %.",
+        "Neue Einstellung: FPS-Anzeige.",
+        "Gehen und Rennen ca. 20 % schneller.",
+        "Abkürzung: Rohrpost-Luken auf der Dammkrone und in der Turbinenhalle bringen dich direkt zum anderen Ende.",
+        "Kräftigere Wasserstrahlen an der Schleuse; ein Stromausfall schaltet jetzt auch Galerie-, Hallen-, Keller- und Kronenlicht ab."
+      ]
+    },
+    {
       "version": "0.7.0",
       "date": "2026-11-16",
       "title": "The new dam, the break room and the storm night",
