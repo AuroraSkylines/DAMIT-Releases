@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "version": "0.7.2",
+      "date": "2026-11-18",
+      "title": "Inviting friends works again",
+      "title_de": "Freunde einladen geht wieder",
+      "changes": [
+        "Pause menu \"Invite friends\" opens an in-game friends list: pick a friend and they get a Steam invite. Works fully with a controller and without the Steam overlay.",
+        "Main menu \"Join friends\": friends with an open DAMN IT! lobby are listed first and can be joined directly; an invite you received can be accepted right in the main menu.",
+        "The Steam overlay (Shift+Tab, invite dialog) now also works when the game is started from the launcher."
+      ],
+      "changes_de": [
+        "Esc-Menü „Freunde einladen“ öffnet eine Freundesliste im Spiel: Freund auswählen, er bekommt eine Steam-Einladung. Geht komplett mit Controller und auch ohne Steam-Overlay.",
+        "Hauptmenü „Freunden beitreten“: Freunde mit offener DAMN IT!-Lobby stehen oben und lassen sich direkt beitreten; eine erhaltene Einladung kann man direkt im Hauptmenü annehmen.",
+        "Das Steam-Overlay (Umschalt+Tab, Einladungsdialog) funktioniert jetzt auch, wenn das Spiel über den Launcher startet."
+      ]
+    },
+    {
       "version": "0.7.1",
       "date": "2026-11-16",
       "title": "Playtest fixes",
