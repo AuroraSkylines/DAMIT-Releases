@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "0.7.3",
+      "date": "2026-11-18",
+      "title": "Credits",
+      "title_de": "Credits",
+      "changes": [
+        "Credits tidied up."
+      ],
+      "changes_de": [
+        "Credits aufgeräumt."
+      ]
+    },
+    {
       "version": "0.7.2",
       "date": "2026-11-18",
       "title": "Inviting friends works again",
